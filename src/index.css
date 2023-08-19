@@ -14,7 +14,7 @@ body {
   margin: 10px 0;
 }
 
-input, textarea, button {
+input, textarea, button, select {
   display: block;
   margin: 10px 0 ;
   width: 100%;
